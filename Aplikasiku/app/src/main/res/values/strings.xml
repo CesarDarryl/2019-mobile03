@@ -16,4 +16,6 @@
 	<string name="confirm_password">Confirm Password</string>
 	<string name="send_request">Send Request</string>
 	<string name="change_password">Change Password</string>
+	<string name="welcome">Welcome to My Application</string>
+	<string name="sub_welcome">What is going to happen tomrrow ?</string>
 </resources>
